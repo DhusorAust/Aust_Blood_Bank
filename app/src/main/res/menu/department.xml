@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/cse"
+        android:title="CSE"/>
+
+
+    <item
+        android:id="@+id/eee"
+        android:title="EEE"/>
+    <item
+        android:id="@+id/te"
+        android:title="TE"/>
+    <item
+        android:id="@+id/ce"
+        android:title="CE"/>
+    <item
+        android:id="@+id/mpe"
+        android:title="MPE"/>
+    <item
+        android:id="@+id/archi"
+        android:title="AE"/>
+    <item
+        android:id="@+id/bba"
+        android:title="BBA"/>
+
+
+</menu>
